@@ -36,7 +36,7 @@ Below is a screenshot of the command terminal after prompts have been answered a
 ![Screenshot of commmand terminal and generate logo.](./assets/screenshot.png)
 
 
-Below are three more examples of logos generated using the application in varying shapes, colors, and text.  
+Below are three more examples of logos generated using the application in varying shapes, colors, and text. They can be found in the [examples](./examples) directory.  
 ![Purple circle logo with black text that consists of '##'](./examples/example1-black-hashes-E39FF6-circle.svg)
 ![White triangle logo with purple text that reads '123'](./examples/example2-663399-123-white-triangle.svg)
 ![Dark blue square logo with light blue text that reads 'hJl'](./examples/example3-7085FF-hJl-3F49A4-square.svg)
@@ -52,7 +52,7 @@ Below are three more examples of logos generated using the application in varyin
 - BootCampSpot
 
 ## Tests
-To run unit tests use the ```npm run test``` command.
+To run unit tests use the ```npm run test``` command. There are 5 test suites.
 
 ## Questions
 - Github: [hjlee17](https://github.com/hjlee17)
