@@ -1,4 +1,4 @@
-const Square = require('../lib/shapes/circle.js');
+const Square = require('../lib/shapes/square.js');
 
 describe('Square', () => {
   test('should render a green square', () => {
