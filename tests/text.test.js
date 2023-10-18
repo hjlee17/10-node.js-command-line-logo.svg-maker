@@ -1,12 +1,13 @@
-const Circle = require('../lib/circle.js');
+const LogoText = require('../lib/text.js');
 
-describe('Circle', () => {
-  test('should render a blue circle', () => {
+describe('LogoText', () => {
+  test('should render ABC in white', () => {
+    const text = "ABC"
+    const color = "white";
+    
+    const logoText = new LogoText(text, color);
+    const expectedLogoText = `<text x="150" y="125" font-size="60" text-anchor="middle" fill="white">ABC</text>`
 
-    const color = blue;
-    const shape = new Circle([], color);
-    const expectedCircle = `<circle cx="150" cy="100" r="80" fill="${color}" />`
-
-    expect(shape.render()).toEqual(expectedCircle);
+    expect(logoText.render(text, color)).toEqual(expectedLogoText);
   });
 });
