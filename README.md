@@ -27,10 +27,14 @@ and answer the prompts accordingly.
 4. The user will be required to input the same way as the logo text color.
 
 
-A file titled [logo.svg](./output/logo.svg) will be generated in the [output](./output) folder. Rename this file or copy to a new location; running the application again will overwrite the generated SVG file because it will use the same filename.
+A file titled [logo.svg](./output/logo.svg) will be generated in the [output](./output) directory. Rename this file or copy to a new location; running the application again will overwrite the generated SVG file because it will use the same filename.
 
-There is a sample logo in the [output](./output) folder that matches the video demonstration below. 
-[Video Demonstration](link)
+There is a sample logo [VideoDemoLogo.svg](./output/VideoDemoLogo.svg)in the [output](./output) directory that matches the video demonstration below. 
+[Video Demonstration](https://drive.google.com/file/d/1Bzk8k42iTB7CLJ3aYgEgbcfHBgfjoSRH/view?usp=share_link)
+
+Below is a screenshot of the command terminal after prompts have been answered and [logo.svg](./output/logo.svg) has been generated per the user inputs. The user inputs in the command terminal match the values in [logo.svg](./output/logo.svg).
+![Screenshot of commmand terminal and generate logo.](./assets/screenshot.png)
+
 
 Below are three more examples of logos generated using the application in varying shapes, colors, and text.  
 ![Purple circle logo with black text that consists of '##'](./examples/example1-black-hashes-E39FF6-circle.svg)
