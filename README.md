@@ -32,10 +32,10 @@ A file titled [logo.svg](./output/logo.svg) will be generated in the [output](./
 There is a sample logo in the [output](./output) folder that matches the video demonstration below. 
 [Video Demonstration](link)
 
-Below are three more examples of logos generated using the application in varying shapes and colors with varying text.  
-![Purple circle logo with black text that consists of '##'](./examples/example1-black-##-E39FF6-circle.svg)  
-![White triangle logo with purple text that reads '123'](./examples/example2-663399-123-white-triangle.svg)  
-![Dark blue square logo with light blue text that reads 'hJl'](./examples/example3-7085FF-hJl-3F49A4-square)  
+Below are three more examples of logos generated using the application in varying shapes, colors, and text.  
+![Purple circle logo with black text that consists of '##'](./examples/example1-black-hashes-E39FF6-circle.svg)
+![White triangle logo with purple text that reads '123'](./examples/example2-663399-123-white-triangle.svg)
+![Dark blue square logo with light blue text that reads 'hJl'](./examples/example3-7085FF-hJl-3F49A4-square.svg)
 
 
 ## License
